@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXScene.build/master.swiftdeps"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXScene/CoherenceWallEntities.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXScene.build/CoherenceWallEntities.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXScene.build/CoherenceWallEntities.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXScene.build/CoherenceWallEntities~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXScene.build/CoherenceWallEntities.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXScene.build/CoherenceWallEntities.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXScene/SceneEntities.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXScene.build/SceneEntities.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXScene.build/SceneEntities.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXScene.build/SceneEntities~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXScene.build/SceneEntities.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXScene.build/SceneEntities.dia"
+  }
+}

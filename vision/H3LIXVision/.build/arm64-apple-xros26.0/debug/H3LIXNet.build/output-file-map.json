@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/master.swiftdeps"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXNet/H3LIXClient.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/H3LIXClient.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/H3LIXClient.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/H3LIXClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/H3LIXClient.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/H3LIXClient.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXNet/HealthKitStreamer.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/HealthKitStreamer.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/HealthKitStreamer.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/HealthKitStreamer~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/HealthKitStreamer.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/HealthKitStreamer.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXNet/IngestModels.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/IngestModels.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/IngestModels.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/IngestModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/IngestModels.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXNet.build/IngestModels.dia"
+  }
+}

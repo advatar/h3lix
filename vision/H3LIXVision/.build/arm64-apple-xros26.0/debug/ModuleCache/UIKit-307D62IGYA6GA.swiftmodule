@@ -1,0 +1,204 @@
+---
+path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/xros/prebuilt-modules/26.2/UIKit.swiftmodule/arm64e-apple-xros.swiftmodule'
+dependencies:
+  - mtime:           1763670321000000000
+    path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/xros/prebuilt-modules/26.2/UIKit.swiftmodule/arm64e-apple-xros.swiftmodule'
+    size:            1160572
+  - mtime:           1762653320000000000
+    path:            'usr/lib/swift/Swift.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            2257622
+    sdk_relative:    true
+  - mtime:           1762654316000000000
+    path:            'usr/include/_DarwinFoundation2.apinotes'
+    size:            1145
+    sdk_relative:    true
+  - mtime:           1762653212000000000
+    path:            'usr/include/ObjectiveC.apinotes'
+    size:            11147
+    sdk_relative:    true
+  - mtime:           1762651284000000000
+    path:            'usr/include/Dispatch.apinotes'
+    size:            19
+    sdk_relative:    true
+  - mtime:           1763528210000000000
+    path:            'System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    size:            53963
+    sdk_relative:    true
+  - mtime:           1762655769000000000
+    path:            'System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    size:            162
+    sdk_relative:    true
+  - mtime:           1762655581000000000
+    path:            'System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    size:            81098
+    sdk_relative:    true
+  - mtime:           1762654331000000000
+    path:            'usr/lib/swift/_DarwinFoundation1.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            18806
+    sdk_relative:    true
+  - mtime:           1762654332000000000
+    path:            'usr/lib/swift/_DarwinFoundation2.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            2625
+    sdk_relative:    true
+  - mtime:           1762654333000000000
+    path:            'usr/lib/swift/_DarwinFoundation3.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            1570
+    sdk_relative:    true
+  - mtime:           1762653897000000000
+    path:            'usr/lib/swift/_Builtin_float.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            4310
+    sdk_relative:    true
+  - mtime:           1762654337000000000
+    path:            'usr/lib/swift/Darwin.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            19712
+    sdk_relative:    true
+  - mtime:           1762654628000000000
+    path:            'usr/lib/swift/_Concurrency.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            405468
+    sdk_relative:    true
+  - mtime:           1762654732000000000
+    path:            'usr/lib/swift/_StringProcessing.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            24456
+    sdk_relative:    true
+  - mtime:           1762655042000000000
+    path:            'System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            175514
+    sdk_relative:    true
+  - mtime:           1762655029000000000
+    path:            'usr/lib/swift/ObjectiveC.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            6691
+    sdk_relative:    true
+  - mtime:           1762655180000000000
+    path:            'usr/lib/swift/Dispatch.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            60472
+    sdk_relative:    true
+  - mtime:           1762655300000000000
+    path:            'usr/lib/swift/CoreFoundation.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            22900
+    sdk_relative:    true
+  - mtime:           1762654631000000000
+    path:            'usr/lib/swift/Observation.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            5639
+    sdk_relative:    true
+  - mtime:           1762655033000000000
+    path:            'usr/lib/swift/System.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            97203
+    sdk_relative:    true
+  - mtime:           1762655619000000000
+    path:            'System/Library/Frameworks/Foundation.framework/Modules/Foundation.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            1207625
+    sdk_relative:    true
+  - mtime:           1763528241000000000
+    path:            'System/Library/Frameworks/CoreGraphics.framework/Modules/CoreGraphics.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            91078
+    sdk_relative:    true
+  - mtime:           1762657204000000000
+    path:            'System/Library/Frameworks/Accessibility.framework/Modules/Accessibility.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            24217
+    sdk_relative:    true
+  - mtime:           1762656210000000000
+    path:            'System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes'
+    size:            1662
+    sdk_relative:    true
+  - mtime:           1762656189000000000
+    path:            'System/Library/Frameworks/UniformTypeIdentifiers.framework/Headers/UniformTypeIdentifiers.apinotes'
+    size:            1666
+    sdk_relative:    true
+  - mtime:           1762655784000000000
+    path:            'usr/lib/swift/UniformTypeIdentifiers.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            21713
+    sdk_relative:    true
+  - mtime:           1762656252000000000
+    path:            'System/Library/Frameworks/CoreText.framework/Modules/CoreText.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            5470
+    sdk_relative:    true
+  - mtime:           1762656555000000000
+    path:            'System/Library/Frameworks/DataDetection.framework/Modules/DataDetection.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            7572
+    sdk_relative:    true
+  - mtime:           1762655955000000000
+    path:            'System/Library/Frameworks/DeveloperToolsSupport.framework/Modules/DeveloperToolsSupport.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            11397
+    sdk_relative:    true
+  - mtime:           1762655875000000000
+    path:            'System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes'
+    size:            1192
+    sdk_relative:    true
+  - mtime:           1761930329000000000
+    path:            'System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes'
+    size:            103870
+    sdk_relative:    true
+  - mtime:           1763172873000000000
+    path:            'System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes'
+    size:            7569
+    sdk_relative:    true
+  - mtime:           1762655899000000000
+    path:            'usr/lib/swift/Metal.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            44486
+    sdk_relative:    true
+  - mtime:           1762655988000000000
+    path:            'System/Library/Frameworks/CoreVideo.framework/Modules/CoreVideo.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            35421
+    sdk_relative:    true
+  - mtime:           1762656110000000000
+    path:            'usr/lib/swift/QuartzCore.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            2293
+    sdk_relative:    true
+  - mtime:           1762654316000000000
+    path:            'usr/include/os.apinotes'
+    size:            1658
+    sdk_relative:    true
+  - mtime:           1762655283000000000
+    path:            'usr/lib/swift/os.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            110902
+    sdk_relative:    true
+  - mtime:           1762655897000000000
+    path:            'System/Library/Frameworks/CoreTransferable.framework/Modules/CoreTransferable.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            22489
+    sdk_relative:    true
+  - mtime:           1762655861000000000
+    path:            'usr/lib/swift/OSLog.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            1340
+    sdk_relative:    true
+  - mtime:           1762655030000000000
+    path:            'usr/lib/swift/simd.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            229493
+    sdk_relative:    true
+  - mtime:           1762655172000000000
+    path:            'usr/lib/swift/Spatial.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            225145
+    sdk_relative:    true
+  - mtime:           1762656379000000000
+    path:            'System/Library/Frameworks/Symbols.framework/Modules/Symbols.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            24352
+    sdk_relative:    true
+  - mtime:           1762747138000000000
+    path:            'System/Library/Frameworks/SwiftUICore.framework/Modules/SwiftUICore.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            1188270
+    sdk_relative:    true
+  - mtime:           1762656244000000000
+    path:            'System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes'
+    size:            37585
+    sdk_relative:    true
+  - mtime:           1762656208000000000
+    path:            'System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes'
+    size:            326
+    sdk_relative:    true
+  - mtime:           1762840705000000000
+    path:            'System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes'
+    size:            162515
+    sdk_relative:    true
+  - mtime:           1762656638000000000
+    path:            'System/Library/Frameworks/FileProvider.framework/Modules/FileProvider.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            1562
+    sdk_relative:    true
+  - mtime:           1762656162000000000
+    path:            'usr/lib/swift/CoreImage.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            728
+    sdk_relative:    true
+  - mtime:           1762840768000000000
+    path:            'System/Library/Frameworks/UIKit.framework/Modules/UIKit.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            345671
+    sdk_relative:    true
+version:         1
+...

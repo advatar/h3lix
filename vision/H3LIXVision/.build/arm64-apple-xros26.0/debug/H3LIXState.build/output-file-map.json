@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/master.swiftdeps"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXState/H3LIXStore.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/H3LIXStore.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/H3LIXStore.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/H3LIXStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/H3LIXStore.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/H3LIXStore.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXState/InteractionModel.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/InteractionModel.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/InteractionModel.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/InteractionModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/InteractionModel.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/InteractionModel.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXState/MockData.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/MockData.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/MockData.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/MockData~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/MockData.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/MockData.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXState/PlaybackController.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/PlaybackController.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/PlaybackController.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/PlaybackController~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/PlaybackController.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/PlaybackController.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXState/ScenarioCatalog.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/ScenarioCatalog.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/ScenarioCatalog.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/ScenarioCatalog~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/ScenarioCatalog.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/ScenarioCatalog.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXState/TeachingStore.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/TeachingStore.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/TeachingStore.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/TeachingStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/TeachingStore.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXState.build/TeachingStore.dia"
+  }
+}

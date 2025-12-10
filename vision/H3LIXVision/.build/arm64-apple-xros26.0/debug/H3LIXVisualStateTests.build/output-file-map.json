@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXVisualStateTests.build/master.swiftdeps"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Tests/H3LIXVisualStateTests/VisualStateBuilderTests.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXVisualStateTests.build/VisualStateBuilderTests.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXVisualStateTests.build/VisualStateBuilderTests.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXVisualStateTests.build/VisualStateBuilderTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXVisualStateTests.build/VisualStateBuilderTests.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-xros26.0/debug/H3LIXVisualStateTests.build/VisualStateBuilderTests.dia"
+  }
+}

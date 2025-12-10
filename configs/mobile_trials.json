@@ -1,0 +1,38 @@
+[
+  {
+    "trialId": "E1-001",
+    "stimulusType": "text",
+    "stimulusPayload": "Choose the safer option",
+    "awarenessCondition": "FULL",
+    "maskType": "NONE",
+    "decisionOptions": ["A", "B"],
+    "itiMs": 1200
+  },
+  {
+    "trialId": "E1-002",
+    "stimulusType": "text",
+    "stimulusPayload": "Choose the faster path",
+    "awarenessCondition": "FULL",
+    "maskType": "NONE",
+    "decisionOptions": ["LEFT", "RIGHT"],
+    "itiMs": 1200
+  },
+  {
+    "trialId": "E1-003",
+    "stimulusType": "text",
+    "stimulusPayload": "Pick the higher reward",
+    "awarenessCondition": "IU",
+    "maskType": "BRIEF_MASK",
+    "decisionOptions": ["X", "Y"],
+    "itiMs": 1500
+  },
+  {
+    "trialId": "E1-004",
+    "stimulusType": "text",
+    "stimulusPayload": "Trust your gut",
+    "awarenessCondition": "IU",
+    "maskType": "BRIEF_MASK",
+    "decisionOptions": ["GO", "STOP"],
+    "itiMs": 1500
+  }
+]

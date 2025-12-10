@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/master.swiftdeps"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/H3LIXStore.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/H3LIXStore.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/H3LIXStore.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/H3LIXStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/H3LIXStore.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/H3LIXStore.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/InteractionModel.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/InteractionModel.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/InteractionModel.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/InteractionModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/InteractionModel.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/InteractionModel.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/PlaybackController.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/PlaybackController.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/PlaybackController.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/PlaybackController~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/PlaybackController.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/PlaybackController.dia"
+  }
+}

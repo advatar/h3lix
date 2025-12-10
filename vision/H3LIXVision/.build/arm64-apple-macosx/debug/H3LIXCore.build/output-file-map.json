@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXCore.build/master.swiftdeps"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXCore/Teaching.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Teaching.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Teaching.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Teaching~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Teaching.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Teaching.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXCore/Types.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Types.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Types.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Types~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Types.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Types.dia"
+  }
+}

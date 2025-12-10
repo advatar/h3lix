@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/master.swiftdeps"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXUI/DashboardView.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/DashboardView.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/DashboardView.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/DashboardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/DashboardView.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/DashboardView.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXUI/H3LIXImmersiveView.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/H3LIXImmersiveView.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/H3LIXImmersiveView.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/H3LIXImmersiveView~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/H3LIXImmersiveView.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/H3LIXImmersiveView.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXUI/SelectionHUDView.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/SelectionHUDView.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/SelectionHUDView.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/SelectionHUDView~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/SelectionHUDView.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/SelectionHUDView.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/Sources/H3LIXUI/TeachingOverlay.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/TeachingOverlay.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/TeachingOverlay.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/TeachingOverlay~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/TeachingOverlay.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/H3LIXVision/.build/arm64-apple-macosx/debug/H3LIXUI.build/TeachingOverlay.dia"
+  }
+}

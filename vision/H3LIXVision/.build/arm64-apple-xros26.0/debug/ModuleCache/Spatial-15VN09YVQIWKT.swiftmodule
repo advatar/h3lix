@@ -1,0 +1,52 @@
+---
+path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/xros/prebuilt-modules/26.2/Spatial.swiftmodule/arm64e-apple-xros.swiftmodule'
+dependencies:
+  - mtime:           1763670229000000000
+    path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/xros/prebuilt-modules/26.2/Spatial.swiftmodule/arm64e-apple-xros.swiftmodule'
+    size:            1218728
+  - mtime:           1762653320000000000
+    path:            'usr/lib/swift/Swift.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            2257622
+    sdk_relative:    true
+  - mtime:           1762654316000000000
+    path:            'usr/include/_DarwinFoundation2.apinotes'
+    size:            1145
+    sdk_relative:    true
+  - mtime:           1762654331000000000
+    path:            'usr/lib/swift/_DarwinFoundation1.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            18806
+    sdk_relative:    true
+  - mtime:           1762654332000000000
+    path:            'usr/lib/swift/_DarwinFoundation2.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            2625
+    sdk_relative:    true
+  - mtime:           1762654333000000000
+    path:            'usr/lib/swift/_DarwinFoundation3.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            1570
+    sdk_relative:    true
+  - mtime:           1762653897000000000
+    path:            'usr/lib/swift/_Builtin_float.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            4310
+    sdk_relative:    true
+  - mtime:           1762654337000000000
+    path:            'usr/lib/swift/Darwin.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            19712
+    sdk_relative:    true
+  - mtime:           1762654628000000000
+    path:            'usr/lib/swift/_Concurrency.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            405468
+    sdk_relative:    true
+  - mtime:           1762654732000000000
+    path:            'usr/lib/swift/_StringProcessing.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            24456
+    sdk_relative:    true
+  - mtime:           1762655030000000000
+    path:            'usr/lib/swift/simd.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            229493
+    sdk_relative:    true
+  - mtime:           1762655172000000000
+    path:            'usr/lib/swift/Spatial.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            225145
+    sdk_relative:    true
+version:         1
+...

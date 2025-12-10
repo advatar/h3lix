@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/master.swiftdeps"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/CoherenceWallState.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/CoherenceWallState.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/CoherenceWallState.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/CoherenceWallState~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/CoherenceWallState.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/CoherenceWallState.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualMappings.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualMappings.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualMappings.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualMappings~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualMappings.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualMappings.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualState.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualState.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualState.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualState~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualState.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualState.dia"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualStateBuilder.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualStateBuilder.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualStateBuilder.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualStateBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualStateBuilder.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualStateBuilder.dia"
+  }
+}

@@ -1,0 +1,16 @@
+---
+path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/xros/prebuilt-modules/26.2/_Concurrency.swiftmodule/arm64e-apple-xros.swiftmodule'
+dependencies:
+  - mtime:           1763670213000000000
+    path:            '/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/xros/prebuilt-modules/26.2/_Concurrency.swiftmodule/arm64e-apple-xros.swiftmodule'
+    size:            727172
+  - mtime:           1762653320000000000
+    path:            'usr/lib/swift/Swift.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            2257622
+    sdk_relative:    true
+  - mtime:           1762654628000000000
+    path:            'usr/lib/swift/_Concurrency.swiftmodule/arm64e-apple-xros.swiftinterface'
+    size:            405468
+    sdk_relative:    true
+version:         1
+...

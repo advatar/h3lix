@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["experiment_id", "condition_id", "n_trials", "metrics"],
+  "properties": {
+    "experiment_id": {"type": "string"},
+    "condition_id": {"type": "string"},
+    "n_trials": {"type": "integer"},
+    "metrics": {"type": "object"}
+  }
+}

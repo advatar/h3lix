@@ -1,0 +1,2075 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.xctest/Contents/MacOS/H3LIXVisionPackageTests",
+      "packagePath" : "/Users/johansellstrom/dev/h3lix/src/vision",
+      "productName" : "H3LIXVisionPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.H3LIXCore-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build/sources",
+      "importPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXCore/Types.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "H3LIXCore",
+      "moduleOutputPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXCore.swiftmodule",
+      "objects" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Types.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build/include/H3LIXCore-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "vision"
+      ],
+      "outputFileMapPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Types.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXCore.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXCore/Types.swift"
+      ],
+      "tempsPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.H3LIXNet-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build/sources",
+      "importPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXNet/H3LIXClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "H3LIXNet",
+      "moduleOutputPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXNet.swiftmodule",
+      "objects" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build/H3LIXClient.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build/include/H3LIXNet-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "vision"
+      ],
+      "outputFileMapPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build/H3LIXClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXNet.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXNet/H3LIXClient.swift"
+      ],
+      "tempsPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.H3LIXScene-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/sources",
+      "importPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXScene/CoherenceWallEntities.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXScene/SceneEntities.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXState.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVisualState.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "H3LIXScene",
+      "moduleOutputPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXScene.swiftmodule",
+      "objects" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/CoherenceWallEntities.swift.o",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/SceneEntities.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/include/H3LIXScene-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "vision"
+      ],
+      "outputFileMapPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/CoherenceWallEntities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/SceneEntities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXScene.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXScene/CoherenceWallEntities.swift",
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXScene/SceneEntities.swift"
+      ],
+      "tempsPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.H3LIXState-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/sources",
+      "importPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/H3LIXStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/InteractionModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/PlaybackController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXNet.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "H3LIXState",
+      "moduleOutputPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXState.swiftmodule",
+      "objects" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/H3LIXStore.swift.o",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/InteractionModel.swift.o",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/PlaybackController.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/include/H3LIXState-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "vision"
+      ],
+      "outputFileMapPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/H3LIXStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/InteractionModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/PlaybackController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXState.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/H3LIXStore.swift",
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/InteractionModel.swift",
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/PlaybackController.swift"
+      ],
+      "tempsPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.H3LIXUI-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/sources",
+      "importPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/DashboardView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/H3LIXImmersiveView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/SelectionHUDView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXState.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVisualState.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXScene.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "H3LIXUI",
+      "moduleOutputPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXUI.swiftmodule",
+      "objects" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/DashboardView.swift.o",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/H3LIXImmersiveView.swift.o",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/SelectionHUDView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/include/H3LIXUI-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "vision"
+      ],
+      "outputFileMapPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/DashboardView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/H3LIXImmersiveView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/SelectionHUDView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXUI.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/DashboardView.swift",
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/H3LIXImmersiveView.swift",
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/SelectionHUDView.swift"
+      ],
+      "tempsPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.H3LIXVision-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/sources",
+      "importPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVision/H3LIXVisionApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXNet.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXState.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVisualState.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXScene.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXUI.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "H3LIXVision",
+      "moduleOutputPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVision.swiftmodule",
+      "objects" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/H3LIXVisionApp.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "H3LIXVision_main",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "vision"
+      ],
+      "outputFileMapPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/H3LIXVisionApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVision.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVision/H3LIXVisionApp.swift"
+      ],
+      "tempsPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.H3LIXVisionPackageTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.build/sources",
+      "importPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVisualStateTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "H3LIXVisionPackageTests",
+      "moduleOutputPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVisionPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.build/include/H3LIXVisionPackageTests-Swift.h",
+        "-color-diagnostics",
+        "-plugin-path",
+        "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "vision"
+      ],
+      "outputFileMapPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVisionPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.H3LIXVisualState-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/sources",
+      "importPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/CoherenceWallState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualMappings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualStateBuilder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXState.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "H3LIXVisualState",
+      "moduleOutputPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVisualState.swiftmodule",
+      "objects" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/CoherenceWallState.swift.o",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualMappings.swift.o",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualState.swift.o",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualStateBuilder.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/include/H3LIXVisualState-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "vision"
+      ],
+      "outputFileMapPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/CoherenceWallState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualMappings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualStateBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVisualState.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/CoherenceWallState.swift",
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualMappings.swift",
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualState.swift",
+        "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualStateBuilder.swift"
+      ],
+      "tempsPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.H3LIXVisualStateTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualStateTests.build/sources",
+      "importPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Tests/H3LIXVisualStateTests/VisualStateBuilderTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVisualState.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXState.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualStateTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "H3LIXVisualStateTests",
+      "moduleOutputPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVisualStateTests.swiftmodule",
+      "objects" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualStateTests.build/VisualStateBuilderTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "vision"
+      ],
+      "outputFileMapPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualStateTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualStateTests.build/VisualStateBuilderTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules/H3LIXVisualStateTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/johansellstrom/dev/h3lix/src/vision/Tests/H3LIXVisualStateTests/VisualStateBuilderTests.swift"
+      ],
+      "tempsPath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualStateTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "H3LIXCore" : [
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "H3LIXCore",
+      "-package-name",
+      "vision",
+      "-c",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXCore/Types.swift",
+      "-I",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build/include/H3LIXCore-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "vision",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "H3LIXNet" : [
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "H3LIXNet",
+      "-package-name",
+      "vision",
+      "-c",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXNet/H3LIXClient.swift",
+      "-I",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build/include/H3LIXNet-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "vision",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "H3LIXScene" : [
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "H3LIXScene",
+      "-package-name",
+      "vision",
+      "-c",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXScene/CoherenceWallEntities.swift",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXScene/SceneEntities.swift",
+      "-I",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/include/H3LIXScene-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "vision",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "H3LIXState" : [
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "H3LIXState",
+      "-package-name",
+      "vision",
+      "-c",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/H3LIXStore.swift",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/InteractionModel.swift",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/PlaybackController.swift",
+      "-I",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/include/H3LIXState-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "vision",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "H3LIXUI" : [
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "H3LIXUI",
+      "-package-name",
+      "vision",
+      "-c",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/DashboardView.swift",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/H3LIXImmersiveView.swift",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/SelectionHUDView.swift",
+      "-I",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/include/H3LIXUI-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "vision",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "H3LIXVision" : [
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "H3LIXVision",
+      "-package-name",
+      "vision",
+      "-c",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVision/H3LIXVisionApp.swift",
+      "-I",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "H3LIXVision_main",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "vision",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "H3LIXVisionPackageTests" : [
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "H3LIXVisionPackageTests",
+      "-package-name",
+      "vision",
+      "-c",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.build/include/H3LIXVisionPackageTests-Swift.h",
+      "-color-diagnostics",
+      "-plugin-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "vision",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "H3LIXVisualState" : [
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "H3LIXVisualState",
+      "-package-name",
+      "vision",
+      "-c",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/CoherenceWallState.swift",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualMappings.swift",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualState.swift",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualStateBuilder.swift",
+      "-I",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/include/H3LIXVisualState-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "vision",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "H3LIXVisualStateTests" : [
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "H3LIXVisualStateTests",
+      "-package-name",
+      "vision",
+      "-c",
+      "/Users/johansellstrom/dev/h3lix/src/vision/Tests/H3LIXVisualStateTests/VisualStateBuilderTests.swift",
+      "-I",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "vision",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "H3LIXCore" : [
+
+    ],
+    "H3LIXNet" : [
+      "H3LIXCore"
+    ],
+    "H3LIXScene" : [
+      "H3LIXVisualState",
+      "H3LIXState",
+      "H3LIXNet",
+      "H3LIXCore"
+    ],
+    "H3LIXState" : [
+      "H3LIXNet",
+      "H3LIXCore"
+    ],
+    "H3LIXUI" : [
+      "H3LIXScene",
+      "H3LIXVisualState",
+      "H3LIXState",
+      "H3LIXNet",
+      "H3LIXCore"
+    ],
+    "H3LIXVision" : [
+      "H3LIXUI",
+      "H3LIXScene",
+      "H3LIXVisualState",
+      "H3LIXState",
+      "H3LIXNet",
+      "H3LIXCore"
+    ],
+    "H3LIXVisionPackageTests" : [
+      "H3LIXVisualStateTests",
+      "H3LIXVisualState",
+      "H3LIXState",
+      "H3LIXNet",
+      "H3LIXCore"
+    ],
+    "H3LIXVisualState" : [
+      "H3LIXState",
+      "H3LIXNet",
+      "H3LIXCore"
+    ],
+    "H3LIXVisualStateTests" : [
+      "H3LIXVisualState",
+      "H3LIXState",
+      "H3LIXNet",
+      "H3LIXCore"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXCore/Types.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build/sources"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXNet/H3LIXClient.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build/sources"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXScene/CoherenceWallEntities.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXScene/SceneEntities.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/sources"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/H3LIXStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/InteractionModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXState/PlaybackController.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/sources"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/DashboardView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/H3LIXImmersiveView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXUI/SelectionHUDView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/sources"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVision/H3LIXVisionApp.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/sources"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionApp-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionApp-entitlement.plist"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionApp.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Types.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build/H3LIXClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/CoherenceWallEntities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXScene.build/SceneEntities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/H3LIXStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/InteractionModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/PlaybackController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/DashboardView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/H3LIXImmersiveView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXUI.build/SelectionHUDView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/H3LIXVisionApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/CoherenceWallState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualMappings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualStateBuilder.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionApp.product/Objects.LinkFileList"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.build/sources"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXCore.build/Types.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXNet.build/H3LIXClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/H3LIXStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/InteractionModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXState.build/PlaybackController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/CoherenceWallState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualMappings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/VisualStateBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualStateTests.build/VisualStateBuilderTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisionPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/CoherenceWallState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualMappings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVisualState/VisualStateBuilder.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualState.build/sources"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualStateTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/johansellstrom/dev/h3lix/src/vision/Tests/H3LIXVisualStateTests/VisualStateBuilderTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVisualStateTests.build/sources"
+    },
+    "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+    }
+  }
+}

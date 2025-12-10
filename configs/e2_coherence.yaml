@@ -1,0 +1,25 @@
+id: E2_Coherence_Performance
+description: Coherence vs performance/calibration across stacks
+tasks:
+  - name: binary_intuition_task
+    dataset: datasets/binary_task_v1.jsonl
+conditions:
+  - id: C2
+    stack: H3LIX_SOMATIC_ONLY
+    awareness_mode: RESTRICTED
+  - id: C3
+    stack: H3LIX_MPG_RV
+    awareness_mode: RESTRICTED
+  - id: C4
+    stack: H3LIX_FULL
+    awareness_mode: RESTRICTED
+  - id: C5
+    stack: H3LIX_FULL_POLICY
+    awareness_mode: RESTRICTED
+n_runs: 3
+n_trials_per_run: 50
+metrics:
+  - accuracy
+  - brier
+  - has_mufs_rate
+  - coherence_vs_accuracy_corr

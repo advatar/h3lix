@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+neo4j
+networkx
+numpy
+pandas
+scipy
+scikit-learn
+shap
+mne
+neurokit2
+pyhrv
+pytest
+psycopg2-binary
+jsonschema

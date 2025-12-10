@@ -1,0 +1,12 @@
+FROM python:3.11-slim
+WORKDIR /workspace
+COPY requirements.txt .
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends build-essential \
+    && rm -rf /var/lib/apt/lists/* \
+    && pip install --no-cache-dir -r requirements.txt jupyterlab
+COPY . .
+ENV NEO4J_URI=bolt://neo4j:7687
+ENV NEO4J_USER=neo4j
+ENV NEO4J_PASSWORD=neo4j-password
+CMD ["jupyter", "lab", "--ip=0.0.0.0", "--allow-root", "--no-browser", "--NotebookApp.token="]

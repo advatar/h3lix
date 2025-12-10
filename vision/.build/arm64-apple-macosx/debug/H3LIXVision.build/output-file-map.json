@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/master.swiftdeps"
+  },
+  "/Users/johansellstrom/dev/h3lix/src/vision/Sources/H3LIXVision/H3LIXVisionApp.swift": {
+    "dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/H3LIXVisionApp.d",
+    "object": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/H3LIXVisionApp.swift.o",
+    "swiftmodule": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/H3LIXVisionApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/H3LIXVisionApp.swiftdeps",
+    "diagnostics": "/Users/johansellstrom/dev/h3lix/src/vision/.build/arm64-apple-macosx/debug/H3LIXVision.build/H3LIXVisionApp.dia"
+  }
+}

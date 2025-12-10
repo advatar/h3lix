@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["team_id", "architecture_name", "experiments"],
+  "properties": {
+    "team_id": {"type": "string"},
+    "architecture_name": {"type": "string"},
+    "contact": {"type": "string"},
+    "experiments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["experiment_id", "condition_id", "metrics"],
+        "properties": {
+          "experiment_id": {"type": "string"},
+          "condition_id": {"type": "string"},
+          "metrics": {"type": "object"}
+        }
+      }
+    },
+    "notes": {"type": "string"}
+  }
+}

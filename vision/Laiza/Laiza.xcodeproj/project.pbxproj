@@ -1,0 +1,566 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0CA6BC3C2ED886E100A99167 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 0CA6BC3B2ED886E100A99167 /* RealityKitContent */; };
+		0CA6BC6F2ED8876D00A99167 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 0CA6BC6E2ED8876D00A99167 /* RealityKitContent */; };
+		0CA6BC722ED8878400A99167 /* H3LIXCore in Frameworks */ = {isa = PBXBuildFile; productRef = 0CA6BC712ED8878400A99167 /* H3LIXCore */; };
+		0CA6BC742ED8878400A99167 /* H3LIXNet in Frameworks */ = {isa = PBXBuildFile; productRef = 0CA6BC732ED8878400A99167 /* H3LIXNet */; };
+		0CA6BC762ED8878400A99167 /* H3LIXScene in Frameworks */ = {isa = PBXBuildFile; productRef = 0CA6BC752ED8878400A99167 /* H3LIXScene */; };
+		0CA6BC782ED8878400A99167 /* H3LIXState in Frameworks */ = {isa = PBXBuildFile; productRef = 0CA6BC772ED8878400A99167 /* H3LIXState */; };
+		0CA6BC7A2ED8878400A99167 /* H3LIXUI in Frameworks */ = {isa = PBXBuildFile; productRef = 0CA6BC792ED8878400A99167 /* H3LIXUI */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0CA6BC4B2ED886E300A99167 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0CA6BC2E2ED886E100A99167 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0CA6BC352ED886E100A99167;
+			remoteInfo = Laiza;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0CA6BC362ED886E100A99167 /* Laiza.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Laiza.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0CA6BC3A2ED886E100A99167 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
+		0CA6BC4A2ED886E300A99167 /* LaizaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LaizaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		0CA6BC502ED886E300A99167 /* Exceptions for "Laiza" folder in "Laiza" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 0CA6BC352ED886E100A99167 /* Laiza */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		0CA6BC382ED886E100A99167 /* Laiza */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				0CA6BC502ED886E300A99167 /* Exceptions for "Laiza" folder in "Laiza" target */,
+			);
+			path = Laiza;
+			sourceTree = "<group>";
+		};
+		0CA6BC4D2ED886E300A99167 /* LaizaTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LaizaTests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0CA6BC332ED886E100A99167 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0CA6BC6F2ED8876D00A99167 /* RealityKitContent in Frameworks */,
+				0CA6BC782ED8878400A99167 /* H3LIXState in Frameworks */,
+				0CA6BC762ED8878400A99167 /* H3LIXScene in Frameworks */,
+				0CA6BC722ED8878400A99167 /* H3LIXCore in Frameworks */,
+				0CA6BC7A2ED8878400A99167 /* H3LIXUI in Frameworks */,
+				0CA6BC3C2ED886E100A99167 /* RealityKitContent in Frameworks */,
+				0CA6BC742ED8878400A99167 /* H3LIXNet in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0CA6BC472ED886E300A99167 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0CA6BC2D2ED886E100A99167 = {
+			isa = PBXGroup;
+			children = (
+				0CA6BC382ED886E100A99167 /* Laiza */,
+				0CA6BC392ED886E100A99167 /* Packages */,
+				0CA6BC4D2ED886E300A99167 /* LaizaTests */,
+				0CA6BC372ED886E100A99167 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0CA6BC372ED886E100A99167 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0CA6BC362ED886E100A99167 /* Laiza.app */,
+				0CA6BC4A2ED886E300A99167 /* LaizaTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0CA6BC392ED886E100A99167 /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				0CA6BC3A2ED886E100A99167 /* RealityKitContent */,
+			);
+			path = Packages;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0CA6BC352ED886E100A99167 /* Laiza */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0CA6BC512ED886E300A99167 /* Build configuration list for PBXNativeTarget "Laiza" */;
+			buildPhases = (
+				0CA6BC322ED886E100A99167 /* Sources */,
+				0CA6BC332ED886E100A99167 /* Frameworks */,
+				0CA6BC342ED886E100A99167 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				0CA6BC382ED886E100A99167 /* Laiza */,
+			);
+			name = Laiza;
+			packageProductDependencies = (
+				0CA6BC3B2ED886E100A99167 /* RealityKitContent */,
+				0CA6BC6E2ED8876D00A99167 /* RealityKitContent */,
+				0CA6BC712ED8878400A99167 /* H3LIXCore */,
+				0CA6BC732ED8878400A99167 /* H3LIXNet */,
+				0CA6BC752ED8878400A99167 /* H3LIXScene */,
+				0CA6BC772ED8878400A99167 /* H3LIXState */,
+				0CA6BC792ED8878400A99167 /* H3LIXUI */,
+			);
+			productName = Laiza;
+			productReference = 0CA6BC362ED886E100A99167 /* Laiza.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0CA6BC492ED886E300A99167 /* LaizaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0CA6BC562ED886E300A99167 /* Build configuration list for PBXNativeTarget "LaizaTests" */;
+			buildPhases = (
+				0CA6BC462ED886E300A99167 /* Sources */,
+				0CA6BC472ED886E300A99167 /* Frameworks */,
+				0CA6BC482ED886E300A99167 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0CA6BC4C2ED886E300A99167 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				0CA6BC4D2ED886E300A99167 /* LaizaTests */,
+			);
+			name = LaizaTests;
+			packageProductDependencies = (
+			);
+			productName = LaizaTests;
+			productReference = 0CA6BC4A2ED886E300A99167 /* LaizaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0CA6BC2E2ED886E100A99167 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2610;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					0CA6BC352ED886E100A99167 = {
+						CreatedOnToolsVersion = 26.1.1;
+					};
+					0CA6BC492ED886E300A99167 = {
+						CreatedOnToolsVersion = 26.1.1;
+						TestTargetID = 0CA6BC352ED886E100A99167;
+					};
+				};
+			};
+			buildConfigurationList = 0CA6BC312ED886E100A99167 /* Build configuration list for PBXProject "Laiza" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0CA6BC2D2ED886E100A99167;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				0CA6BC6D2ED8876D00A99167 /* XCLocalSwiftPackageReference "Packages/RealityKitContent" */,
+				0CA6BC702ED8878400A99167 /* XCLocalSwiftPackageReference "../H3LIXVision" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 0CA6BC372ED886E100A99167 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0CA6BC352ED886E100A99167 /* Laiza */,
+				0CA6BC492ED886E300A99167 /* LaizaTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0CA6BC342ED886E100A99167 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0CA6BC482ED886E300A99167 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0CA6BC322ED886E100A99167 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0CA6BC462ED886E300A99167 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0CA6BC4C2ED886E300A99167 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0CA6BC352ED886E100A99167 /* Laiza */;
+			targetProxy = 0CA6BC4B2ED886E300A99167 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0CA6BC522ED886E300A99167 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L2AF8KFX35;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "$(TARGET_NAME)/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.advatarsystems.Laiza;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "macosx xros xrsimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 7;
+				XROS_DEPLOYMENT_TARGET = 26.0;
+			};
+			name = Debug;
+		};
+		0CA6BC532ED886E300A99167 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L2AF8KFX35;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "$(TARGET_NAME)/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.advatarsystems.Laiza;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "macosx xros xrsimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 7;
+				XROS_DEPLOYMENT_TARGET = 26.0;
+			};
+			name = Release;
+		};
+		0CA6BC542ED886E300A99167 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = L2AF8KFX35;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = xros;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				XROS_DEPLOYMENT_TARGET = 26.1;
+			};
+			name = Debug;
+		};
+		0CA6BC552ED886E300A99167 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = L2AF8KFX35;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = xros;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+				XROS_DEPLOYMENT_TARGET = 26.1;
+			};
+			name = Release;
+		};
+		0CA6BC572ED886E300A99167 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L2AF8KFX35;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.advatarsystems.LaizaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 7;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Laiza.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Laiza";
+				XROS_DEPLOYMENT_TARGET = 26.1;
+			};
+			name = Debug;
+		};
+		0CA6BC582ED886E300A99167 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L2AF8KFX35;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.advatarsystems.LaizaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 7;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Laiza.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Laiza";
+				XROS_DEPLOYMENT_TARGET = 26.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0CA6BC312ED886E100A99167 /* Build configuration list for PBXProject "Laiza" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0CA6BC542ED886E300A99167 /* Debug */,
+				0CA6BC552ED886E300A99167 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0CA6BC512ED886E300A99167 /* Build configuration list for PBXNativeTarget "Laiza" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0CA6BC522ED886E300A99167 /* Debug */,
+				0CA6BC532ED886E300A99167 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0CA6BC562ED886E300A99167 /* Build configuration list for PBXNativeTarget "LaizaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0CA6BC572ED886E300A99167 /* Debug */,
+				0CA6BC582ED886E300A99167 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		0CA6BC6D2ED8876D00A99167 /* XCLocalSwiftPackageReference "Packages/RealityKitContent" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/RealityKitContent;
+		};
+		0CA6BC702ED8878400A99167 /* XCLocalSwiftPackageReference "../H3LIXVision" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../H3LIXVision;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		0CA6BC3B2ED886E100A99167 /* RealityKitContent */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = RealityKitContent;
+		};
+		0CA6BC6E2ED8876D00A99167 /* RealityKitContent */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = RealityKitContent;
+		};
+		0CA6BC712ED8878400A99167 /* H3LIXCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = H3LIXCore;
+		};
+		0CA6BC732ED8878400A99167 /* H3LIXNet */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = H3LIXNet;
+		};
+		0CA6BC752ED8878400A99167 /* H3LIXScene */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = H3LIXScene;
+		};
+		0CA6BC772ED8878400A99167 /* H3LIXState */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = H3LIXState;
+		};
+		0CA6BC792ED8878400A99167 /* H3LIXUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = H3LIXUI;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 0CA6BC2E2ED886E100A99167 /* Project object */;
+}
